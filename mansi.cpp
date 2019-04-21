@@ -13,7 +13,7 @@ void stackimplement()
       cin>>ch;
       switch(ch) {
          case 1: {   
-            cout<<"Enter value to be pushed:"<<endl;
+            cout<<"Enter value in stack"<<endl;
             cin>>val;
              push(val);
             break;
