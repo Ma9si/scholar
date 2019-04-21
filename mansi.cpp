@@ -1,6 +1,7 @@
 #include<iostream>
+#include<string.h>
 using namespace std;
-void stack()
+void stackimplement()
 {
    int ch, val; 
    cout<<"1) Push in stack"<<endl;
