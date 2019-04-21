@@ -4,9 +4,9 @@ using namespace std;
 void stackimplement()
 {
    int ch, val; 
-   cout<<"1) Push in stack"<<endl;
-   cout<<"2) Pop from stack"<<endl;
-   cout<<"3) Display stack"<<endl;
+   cout<<"1) Push "<<endl;
+   cout<<"2) Pop "<<endl;
+   cout<<"3) Display this"<<endl;
    cout<<"4) Exit"<<endl;
    do {
       cout<<"Enter choice: "<<endl;
